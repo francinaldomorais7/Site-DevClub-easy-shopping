@@ -12,3 +12,8 @@
 <br>
 <h1 align="center">Easy Shopping responsivo</h1>
 <br>
+<img src="https://github.com/francinaldomorais7/Site-DevClub-easy-shopping/blob/main/img/responsivo.jpg?raw=true">
+<br>
+<p>
+  Como pode ser observado na imagem, o site aplica a responsividade alterando sua visualização em telas menores comparada a telas de computadores.
+</p>
